@@ -1,7 +1,37 @@
 .customJumbo {
     text-align: center;
-    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 30px;
+    background-color: white;
+}
+
+body {
+
+    background: url("https://i.pinimg.com/originals/f3/be/2e/f3be2e8a3cb282873dd4e7a870dc3c33.jpg");
+    background-size: cover;
+}
+
+.container {
+    
+    padding: 0px;
+}
+
+.colBoxOne {
+    background-color: white;
+    padding: 20px;
+    margin: 0px;
+    margin-left: 0px;
+}
+
+.colBoxTwo {
+    background-color: white;
+    padding: 20px;
+    margin-right: 0px;
+}
+
+.inputBox {
+    background-color: white;
 }
 
 label {
